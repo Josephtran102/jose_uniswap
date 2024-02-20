@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
+Link Demo: 
 
 ## Project Structure
 
@@ -133,4 +134,9 @@ Deploys the subgraph to the official Graph Node.<br/>
 Replace `paulrberg/create-eth-app` in the package.json script with your subgraph's name.
 
 You may also want to [read more about the hosted service](https://thegraph.com/docs/quick-start#hosted-service).
+
+##### Fix Error message "error:0308010C:digital envelope routines::unsupported": 
+`export NODE_OPTIONS=--openssl-legacy-provider`
+
+
 # jose_uniswap
