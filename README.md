@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create Eth App](https://jose-uniswap.vercel.app/).
+This project was bootstrapped with UseETH.io  - [Demo App](https://jose-uniswap.vercel.app/).
 
 
 ## Project Structure
