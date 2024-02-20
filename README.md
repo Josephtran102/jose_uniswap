@@ -1,6 +1,6 @@
 This project was bootstrapped with UseETH.io  - [Demo App](https://jose-uniswap.vercel.app/).
 
-![Screenshot](uniswap2.0/packages/react-app/src/assets/screenshot.png)
+![Screenshot](packages/react-app/src/assets/screenshot.png)
 
 ## Project Structure
 
