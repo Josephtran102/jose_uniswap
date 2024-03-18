@@ -4,7 +4,7 @@ pragma solidity ^0.8.19;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 
-contract SimpleSwap is ERC20 {
+contract JoseSwap is ERC20 {
      //Token contract
      IERC20 public token0;
      IERC20 public token1;
